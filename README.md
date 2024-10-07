@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software developpement
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on Interlink Projects
-- 📫 How to reach me : reach me on email <a href="mailto:a.mohamedou@interlink.mr">webmail</a>
+- 📫 How to reach me : reach me on <a href="mailto:a.mohamedou@interlink.mr">webmail</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
